@@ -1,2 +1,2 @@
 # EncodeDecodeString
-Sample for Encoding and Decoding String.
+This application is a sample for Encoding and Decoding String.
